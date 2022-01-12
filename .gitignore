@@ -1,0 +1,5 @@
+# ignore all .png files
+*.png
+
+# ignore all .ps1 files
+*.ps1
